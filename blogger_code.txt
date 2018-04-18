@@ -1,0 +1,22 @@
+<!-- Syntax Highlighter Additions START -->
+<link href="https://github.com/braincodec/syntaxhighlighter/tree/master/Styles/SyntaxHighlighter" rel="stylesheet" type="text/css" />
+
+<script src="https://github.com/braincodec/syntaxhighlighter/tree/master/Scripts/shCore.js" type="text/javascript" />
+<script src="https://github.com/braincodec/syntaxhighlighter/tree/master/Scripts/shBrushCSharp.js" type="text/javascript" />
+<script src="https://github.com/braincodec/syntaxhighlighter/tree/master/Scripts/shBrushCpp.js" type="text/javascript" />
+<script src="https://github.com/braincodec/syntaxhighlighter/tree/master/Scripts/shBrushCss.js" type="text/javascript" />
+<script src="https://github.com/braincodec/syntaxhighlighter/tree/master/Scripts/shBrushDelphi.js" type="text/javascript" />
+<script src="https://github.com/braincodec/syntaxhighlighter/tree/master/Scripts/shBrushJScript.js" type="text/javascript" />
+<script src="https://github.com/braincodec/syntaxhighlighter/tree/master/Scripts/shBrushJava.js" type="text/javascript" />
+<script src="https://github.com/braincodec/syntaxhighlighter/tree/master/Scripts/shBrushPhp.js" type="text/javascript" />
+<script src="https://github.com/braincodec/syntaxhighlighter/tree/master/Scripts/shBrushPython.js" type="text/javascript" />
+<script src="https://github.com/braincodec/syntaxhighlighter/tree/master/Scripts/shBrushRuby.js" type="text/javascript" />
+<script src="https://github.com/braincodec/syntaxhighlighter/tree/master/Scripts/shBrushSql.js" type="text/javascript" />
+<script src="https://github.com/braincodec/syntaxhighlighter/tree/master/Scripts/shBrushVb.js" type="text/javascript" />
+<script src="https://github.com/braincodec/syntaxhighlighter/tree/master/Scripts/shBrushXml.js" type="text/javascript" />
+  
+<script language="javascript" type="text/javascript">
+ SyntaxHighlighter.config.bloggerMode = true;
+ SyntaxHighlighter.all();
+</script>
+<!-- Syntax Highlighter Additions END -->
