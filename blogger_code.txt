@@ -1,4 +1,4 @@
-<!-- Syntax Highlighter Additions START -->
+<!-- Syntax Highlighter Start -->
 <link href="https://raw.githubusercontent.com/braincodec/syntaxhighlighter/master/Styles/SyntaxHighlighter.css" rel="stylesheet" type="text/css" />
 
 <script src="https://raw.githubusercontent.com/braincodec/syntaxhighlighter/master/Scripts/shCore.js" type="text/javascript" />
@@ -19,4 +19,4 @@
  SyntaxHighlighter.config.bloggerMode = true;
  SyntaxHighlighter.all();
 </script>
-<!-- Syntax Highlighter Additions END -->
+<!-- Syntax Highlighter End -->
