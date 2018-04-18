@@ -6,7 +6,7 @@ All you must to do is to open the blogger_code.txt and insert that code in the t
 before the "&lt;/head&gt;" tag and then when you write a post with code the only thing you must to do is to enclose your
 code between &lt;pre&gt; and &lt;/pre&gt; tags like below:
 
-&lt;pre class="brush:cpp;"&gt;
+&lt;pre name="code" class="cpp"&gt;
 int main()
 {
 	printf("This is a block of syntax colored code\n".);
